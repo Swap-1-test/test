@@ -1,1 +1,1 @@
-It's is my first repo
+It's is my first code
